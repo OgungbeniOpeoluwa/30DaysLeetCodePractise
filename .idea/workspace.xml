@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/SlidingWindowTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbsoluteDifferenceInSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/AbsoluteDifferenceInSortedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -58,10 +57,30 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
       <recent name="DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SlidingWindowTest">
+  <component name="RunManager" selected="JUnit.AbsoluteDifferenceInSortedListTest">
+    <configuration name="AbsoluteDifferenceInSortedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AbsoluteDifferenceInSortedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbsoluteDifferenceInSortedListTest.getAbosoluteSumDiffrence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AbsoluteDifferenceInSortedListTest" />
+      <option name="METHOD_NAME" value="getAbosoluteSumDiffrence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SlidingWindowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
@@ -95,6 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AbsoluteDifferenceInSortedListTest" />
+        <item itemvalue="JUnit.AbsoluteDifferenceInSortedListTest.getAbosoluteSumDiffrence" />
         <item itemvalue="JUnit.SlidingWindowTest" />
         <item itemvalue="JUnit.SlidingWindowTest.testMaxSlidingWindow" />
       </list>
@@ -111,7 +132,9 @@
       <workItem from="1700341301808" duration="10000" />
       <workItem from="1700419217753" duration="14000" />
       <workItem from="1700537842156" duration="4214000" />
-      <workItem from="1700553764626" duration="604000" />
+      <workItem from="1700553764626" duration="2513000" />
+      <workItem from="1700702397493" duration="593000" />
+      <workItem from="1700788867284" duration="2994000" />
     </task>
     <servers />
   </component>
