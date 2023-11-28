@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbsoluteDifferenceInSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/AbsoluteDifferenceInSortedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/UniqueBinaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/UniqueBinaryStringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +57,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
       <recent name="DataStructure" />
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AbsoluteDifferenceInSortedListTest">
+  <component name="RunManager" selected="JUnit.UniqueBinaryStringTest.testForThirdUniqueBinaryStringNumbersInArray">
     <configuration name="AbsoluteDifferenceInSortedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <option name="PACKAGE_NAME" value="" />
@@ -71,17 +71,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AbsoluteDifferenceInSortedListTest.getAbosoluteSumDiffrence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AbsoluteDifferenceInSortedListTest" />
-      <option name="METHOD_NAME" value="getAbosoluteSumDiffrence" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SlidingWindowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UniqueBinaryStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -90,13 +80,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.SlidingWindowTest" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.UniqueBinaryStringTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlidingWindowTest.testMaxSlidingWindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UniqueBinaryStringTest.testForAnotherUniqueBinaryStringNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +95,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.SlidingWindowTest" />
-      <option name="METHOD_NAME" value="testMaxSlidingWindow" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.UniqueBinaryStringTest" />
+      <option name="METHOD_NAME" value="testForAnotherUniqueBinaryStringNumbersInArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueBinaryStringTest.testForThirdUniqueBinaryStringNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.UniqueBinaryStringTest" />
+      <option name="METHOD_NAME" value="testForThirdUniqueBinaryStringNumbersInArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueBinaryStringTest.testForUniqueBinaryStringNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.UniqueBinaryStringTest" />
+      <option name="METHOD_NAME" value="testForUniqueBinaryStringNumbersInArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,10 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UniqueBinaryStringTest.testForThirdUniqueBinaryStringNumbersInArray" />
+        <item itemvalue="JUnit.UniqueBinaryStringTest.testForAnotherUniqueBinaryStringNumbersInArray" />
+        <item itemvalue="JUnit.UniqueBinaryStringTest.testForUniqueBinaryStringNumbersInArray" />
+        <item itemvalue="JUnit.UniqueBinaryStringTest" />
         <item itemvalue="JUnit.AbsoluteDifferenceInSortedListTest" />
-        <item itemvalue="JUnit.AbsoluteDifferenceInSortedListTest.getAbosoluteSumDiffrence" />
-        <item itemvalue="JUnit.SlidingWindowTest" />
-        <item itemvalue="JUnit.SlidingWindowTest.testMaxSlidingWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -135,10 +158,43 @@
       <workItem from="1700553764626" duration="2513000" />
       <workItem from="1700702397493" duration="593000" />
       <workItem from="1700788867284" duration="2994000" />
+      <workItem from="1700976914146" duration="596000" />
+      <workItem from="1701086670536" duration="594000" />
+      <workItem from="1701195036050" duration="8191000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DataStructure/UniqueBinaryStringTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DataStructure/UniqueBinaryStringTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/UniqueBinaryString.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DataStructure/UniqueBinaryString.java</url>
+          <line>53</line>
+          <properties class="DataStructure.UniqueBinaryString" method="changeValueAtIndex">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
