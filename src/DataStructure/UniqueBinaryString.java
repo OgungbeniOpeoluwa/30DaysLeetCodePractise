@@ -18,7 +18,6 @@ public class UniqueBinaryString {
                result = createZeroInNumberOfLength(number,'1');
                values = '0';
                count = 0;
-
            }
         }
 
