@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/ValidParenthenses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/ValidParenthesesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoveElementGivenEndOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MoveElementGivenEndOfArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/UniqueBinaryString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/UniqueBinaryString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +57,27 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="DataStructure" />
       <recent name="" />
+      <recent name="DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ValidParenthesesTest.testAnotherValidParentheses">
-    <configuration name="ValidParenthenses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ValidParenthenses" />
+  <component name="RunManager" selected="JUnit.MoveElementGivenEndOfArrayTest.testThatAnotherNumberGivenIsShiftedToTheBack">
+    <configuration name="MoveElementGivenEndOfArrayTest.testThatAnotherNumberGivenIsShiftedToTheBack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MoveElementGivenEndOfArrayTest" />
+      <option name="METHOD_NAME" value="testThatAnotherNumberGivenIsShiftedToTheBack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveElementGivenEndOfArrayTest.testThatNumberGivenIsShiftedToTheBack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MoveElementGivenEndOfArrayTest" />
+      <option name="METHOD_NAME" value="testThatNumberGivenIsShiftedToTheBack" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,29 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthesesTest.testThatParenthesesIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ValidParenthesesTest" />
-      <option name="METHOD_NAME" value="testThatParenthesesIsValid" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MoveElementGivenEndOfArrayTest.testThatAnotherNumberGivenIsShiftedToTheBack" />
+        <item itemvalue="JUnit.MoveElementGivenEndOfArrayTest.testThatNumberGivenIsShiftedToTheBack" />
         <item itemvalue="JUnit.ValidParenthesesTest.testAnotherValidParentheses" />
         <item itemvalue="JUnit.ValidParenthesesTest.testThatParenthesesIsNotValid" />
         <item itemvalue="JUnit.ValidParenthesesTest.testThatAnotherParenthesesIsValid" />
-        <item itemvalue="JUnit.ValidParenthesesTest.testThatParenthesesIsValid" />
-        <item itemvalue="Application.ValidParenthenses" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +157,10 @@
       <workItem from="1700976914146" duration="596000" />
       <workItem from="1701086670536" duration="594000" />
       <workItem from="1701195036050" duration="16973000" />
-      <workItem from="1701382394466" duration="688000" />
+      <workItem from="1701382394466" duration="3368000" />
+      <workItem from="1701463334626" duration="590000" />
+      <workItem from="1701587502721" duration="1187000" />
+      <workItem from="1701708967441" duration="2179000" />
     </task>
     <servers />
   </component>
@@ -186,6 +179,16 @@
           <url>file://$PROJECT_DIR$/test/DataStructure/UniqueBinaryStringTest.java</url>
           <line>11</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MoveElementGivenEndOfArray.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MoveElementGivenEndOfArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
