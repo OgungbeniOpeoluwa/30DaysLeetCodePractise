@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CalculateMoneyInLeetCodeBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/CalculateMoneyInLeetCodeBankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/GradingStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/GradingStudentsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +57,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
       <recent name="DataStructure" />
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculateMoneyInLeetCodeBankTest.testThatHercyKeptMoneyFor20Days">
+  <component name="RunManager" selected="JUnit.GradingStudentsTest.testThatGradeFor3StudentsAreRoundOffAccordingToTheRules">
     <configuration name="CalculateMoneyInLeetCodeBankTest.testThatHercyKeptMoneyFor10Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <option name="PACKAGE_NAME" value="" />
@@ -92,21 +92,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculateMoneyInLeetCodeBankTest.testThatHercyKetMoneyFor4Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GradingStudentsTest.testThatGradeFor3StudentsAreRoundOffAccordingToTheRules" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculateMoneyInLeetCodeBankTest" />
-      <option name="METHOD_NAME" value="testThatHercyKetMoneyFor4Days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.GradingStudentsTest" />
+      <option name="METHOD_NAME" value="testThatGradeFor3StudentsAreRoundOffAccordingToTheRules" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveElementGivenEndOfArrayTest.testThatAnotherNumberGivenIsShiftedToTheBack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GradingStudentsTest.testThatStudentGradeAreRoundOffAccordingToTheRules" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MoveElementGivenEndOfArrayTest" />
-      <option name="METHOD_NAME" value="testThatAnotherNumberGivenIsShiftedToTheBack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.GradingStudentsTest" />
+      <option name="METHOD_NAME" value="testThatStudentGradeAreRoundOffAccordingToTheRules" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GradingStudentsTest.testThatGradeFor3StudentsAreRoundOffAccordingToTheRules" />
+        <item itemvalue="JUnit.GradingStudentsTest.testThatStudentGradeAreRoundOffAccordingToTheRules" />
         <item itemvalue="JUnit.CalculateMoneyInLeetCodeBankTest.testThatHercyKeptMoneyFor20Days" />
         <item itemvalue="JUnit.CalculateMoneyInLeetCodeBankTest.testThatHercyKeptMoneyFor10Days" />
         <item itemvalue="JUnit.CalculateMoneyInLeetCodeBankTest.testThatHercyKeptMoneyFor4Days" />
-        <item itemvalue="JUnit.CalculateMoneyInLeetCodeBankTest.testThatHercyKetMoneyFor4Days" />
-        <item itemvalue="JUnit.MoveElementGivenEndOfArrayTest.testThatAnotherNumberGivenIsShiftedToTheBack" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +154,8 @@
       <workItem from="1701382394466" duration="3368000" />
       <workItem from="1701463334626" duration="590000" />
       <workItem from="1701587502721" duration="1187000" />
-      <workItem from="1701708967441" duration="3497000" />
+      <workItem from="1701708967441" duration="5776000" />
+      <workItem from="1702003109269" duration="1490000" />
     </task>
     <servers />
   </component>
@@ -173,24 +186,14 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CalculateMoneyInLeetCodeBank.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/CalculateMoneyInLeetCodeBankTest.java</url>
-          <line>13</line>
+          <url>file://$PROJECT_DIR$/src/DataStructure/GradingStudents.java</url>
+          <line>5</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/CalculateMoneyInLeetCodeBankTest.java</url>
-          <line>14</line>
+          <url>file://$PROJECT_DIR$/src/DataStructure/GradingStudents.java</url>
+          <line>21</line>
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/CalculateMoneyInLeetCodeBankTest.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
