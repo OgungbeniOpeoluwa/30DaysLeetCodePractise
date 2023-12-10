@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/CompareTheTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/CompareTheTripletTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/TransposeMatrixTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +61,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CompareTheTripletTest">
-    <configuration name="CalculateMoneyInLeetCodeBankTest.testThatHercyKeptMoneyFor20Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculateMoneyInLeetCodeBankTest" />
-      <option name="METHOD_NAME" value="testThatHercyKeptMoneyFor20Days" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TransposeMatrixTest">
     <configuration name="CompareTheTripletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
@@ -86,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareTheTripletTest.getForAnotherHighestAwardPointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CompareTheTripletTest.getForAnotherHighestAwardPointTestBetweenAliceAndBob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -96,13 +87,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
       <option name="MAIN_CLASS_NAME" value="DataStructure.CompareTheTripletTest" />
-      <option name="METHOD_NAME" value="getForAnotherHighestAwardPointTest" />
+      <option name="METHOD_NAME" value="getForAnotherHighestAwardPointTestBetweenAliceAndBob" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradingStudentsTest.testThatGradeFor3StudentsAreRoundOffAccordingToTheRules" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TransposeMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -111,14 +102,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.GradingStudentsTest" />
-      <option name="METHOD_NAME" value="testThatGradeFor3StudentsAreRoundOffAccordingToTheRules" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.TransposeMatrixTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradingStudentsTest.testThatStudentGradeAreRoundOffAccordingToTheRules" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TransposeMatrixTest.given2DArrayMatrix_returnTransposeOfMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +117,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.GradingStudentsTest" />
-      <option name="METHOD_NAME" value="testThatStudentGradeAreRoundOffAccordingToTheRules" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.TransposeMatrixTest" />
+      <option name="METHOD_NAME" value="given2DArrayMatrix_returnTransposeOfMatrix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeMatrixTest.givenAnother2DArrayMatrix_returnTransposeOfMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.TransposeMatrixTest" />
+      <option name="METHOD_NAME" value="givenAnother2DArrayMatrix_returnTransposeOfMatrix" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TransposeMatrixTest" />
+        <item itemvalue="JUnit.TransposeMatrixTest.given2DArrayMatrix_returnTransposeOfMatrix" />
+        <item itemvalue="JUnit.TransposeMatrixTest.givenAnother2DArrayMatrix_returnTransposeOfMatrix" />
+        <item itemvalue="JUnit.CompareTheTripletTest.getForAnotherHighestAwardPointTestBetweenAliceAndBob" />
         <item itemvalue="JUnit.CompareTheTripletTest" />
-        <item itemvalue="JUnit.CompareTheTripletTest.getForAnotherHighestAwardPointTest" />
-        <item itemvalue="JUnit.GradingStudentsTest.testThatGradeFor3StudentsAreRoundOffAccordingToTheRules" />
-        <item itemvalue="JUnit.GradingStudentsTest.testThatStudentGradeAreRoundOffAccordingToTheRules" />
-        <item itemvalue="JUnit.CalculateMoneyInLeetCodeBankTest.testThatHercyKeptMoneyFor20Days" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +171,7 @@
       <workItem from="1701463334626" duration="590000" />
       <workItem from="1701587502721" duration="1187000" />
       <workItem from="1701708967441" duration="5776000" />
-      <workItem from="1702003109269" duration="2883000" />
+      <workItem from="1702003109269" duration="10695000" />
     </task>
     <servers />
   </component>
@@ -204,6 +210,21 @@
           <url>file://$PROJECT_DIR$/src/DataStructure/GradingStudents.java</url>
           <line>21</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DataStructure/TransposeMatrix.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DataStructure/TransposeMatrixTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DataStructure/TransposeMatrix.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
