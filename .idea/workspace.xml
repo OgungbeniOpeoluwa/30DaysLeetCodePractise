@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/TransposeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/TransposeMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/ReturnElementThatAppear25PercentTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/ReturnElementThatAppear25PercentTimesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +56,17 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="DataStructure" />
+      <recent name="" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="DataStructure" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TransposeMatrixTest">
-    <configuration name="CompareTheTripletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ReturnElementThatAppear25PercentTimesTest">
+    <configuration name="ReturnElementThatAppear25PercentTimesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -71,13 +75,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.CompareTheTripletTest" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnElementThatAppear25PercentTimesTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareTheTripletTest.getForAnotherHighestAwardPointTestBetweenAliceAndBob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReturnElementThatAppear25PercentTimesTest.returnElementThatAppear25PercentTimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +90,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.CompareTheTripletTest" />
-      <option name="METHOD_NAME" value="getForAnotherHighestAwardPointTestBetweenAliceAndBob" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnElementThatAppear25PercentTimesTest" />
+      <option name="METHOD_NAME" value="returnElementThatAppear25PercentTimes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReturnElementThatAppear25PercentTimesTest" />
+        <item itemvalue="JUnit.ReturnElementThatAppear25PercentTimesTest.returnElementThatAppear25PercentTimes" />
         <item itemvalue="JUnit.TransposeMatrixTest" />
         <item itemvalue="JUnit.TransposeMatrixTest.given2DArrayMatrix_returnTransposeOfMatrix" />
         <item itemvalue="JUnit.TransposeMatrixTest.givenAnother2DArrayMatrix_returnTransposeOfMatrix" />
-        <item itemvalue="JUnit.CompareTheTripletTest.getForAnotherHighestAwardPointTestBetweenAliceAndBob" />
-        <item itemvalue="JUnit.CompareTheTripletTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +175,8 @@
       <workItem from="1701463334626" duration="590000" />
       <workItem from="1701587502721" duration="1187000" />
       <workItem from="1701708967441" duration="5776000" />
-      <workItem from="1702003109269" duration="10695000" />
+      <workItem from="1702003109269" duration="12135000" />
+      <workItem from="1702319105745" duration="2459000" />
     </task>
     <servers />
   </component>
@@ -212,18 +217,8 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/DataStructure/TransposeMatrix.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/DataStructure/TransposeMatrixTest.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/DataStructure/TransposeMatrix.java</url>
-          <line>10</line>
+          <url>file://$PROJECT_DIR$/src/DataStructure/TransposeMatrix.java</url>
+          <line>8</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
