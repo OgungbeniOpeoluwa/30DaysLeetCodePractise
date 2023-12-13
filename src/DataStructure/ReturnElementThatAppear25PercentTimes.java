@@ -35,4 +35,12 @@ public class ReturnElementThatAppear25PercentTimes {
         return max;
 
     }
+
+    public static void main(String[] args) {
+        int result = 0;
+        for(int count = 0; count<456;count++){
+            result+=123;
+        }
+        System.out.println(result);
+    }
 }

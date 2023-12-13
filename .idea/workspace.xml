@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/ReturnElementThatAppear25PercentTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/ReturnElementThatAppear25PercentTimesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/ValidPalindromeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/ReturnElementThatAppear25PercentTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/ReturnElementThatAppear25PercentTimes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +66,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReturnElementThatAppear25PercentTimesTest">
-    <configuration name="ReturnElementThatAppear25PercentTimesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PlusOneTest">
+    <configuration name="PlusOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -75,13 +76,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnElementThatAppear25PercentTimesTest" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.PlusOneTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnElementThatAppear25PercentTimesTest.returnElementThatAppear25PercentTimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlusOneTest.testThatStringIsAValidPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -90,14 +91,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnElementThatAppear25PercentTimesTest" />
-      <option name="METHOD_NAME" value="returnElementThatAppear25PercentTimes" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.PlusOneTest" />
+      <option name="METHOD_NAME" value="testThatStringIsAValidPalindrome" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlusOneTest.testThatWhenTheLastDigitIS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -106,29 +107,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.TransposeMatrixTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TransposeMatrixTest.given2DArrayMatrix_returnTransposeOfMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.TransposeMatrixTest" />
-      <option name="METHOD_NAME" value="given2DArrayMatrix_returnTransposeOfMatrix" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.PlusOneTest" />
+      <option name="METHOD_NAME" value="testThatWhenTheLastDigitIS" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeMatrixTest.givenAnother2DArrayMatrix_returnTransposeOfMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlusOneTest.testThatWhenTheValueArrayIs9_returnArrayOf10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +123,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.TransposeMatrixTest" />
-      <option name="METHOD_NAME" value="givenAnother2DArrayMatrix_returnTransposeOfMatrix" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.PlusOneTest" />
+      <option name="METHOD_NAME" value="testThatWhenTheValueArrayIs9_returnArrayOf10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlusOneTest.testThatWhenTheValueArrayIsLong_returnArrayOf1And0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.PlusOneTest" />
+      <option name="METHOD_NAME" value="testThatWhenTheValueArrayIsLong_returnArrayOf1And0" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReturnElementThatAppear25PercentTimesTest" />
-        <item itemvalue="JUnit.ReturnElementThatAppear25PercentTimesTest.returnElementThatAppear25PercentTimes" />
-        <item itemvalue="JUnit.TransposeMatrixTest" />
-        <item itemvalue="JUnit.TransposeMatrixTest.given2DArrayMatrix_returnTransposeOfMatrix" />
-        <item itemvalue="JUnit.TransposeMatrixTest.givenAnother2DArrayMatrix_returnTransposeOfMatrix" />
+        <item itemvalue="JUnit.PlusOneTest" />
+        <item itemvalue="JUnit.PlusOneTest.testThatWhenTheValueArrayIsLong_returnArrayOf1And0" />
+        <item itemvalue="JUnit.PlusOneTest.testThatWhenTheValueArrayIs9_returnArrayOf10" />
+        <item itemvalue="JUnit.PlusOneTest.testThatWhenTheLastDigitIS" />
+        <item itemvalue="JUnit.PlusOneTest.testThatStringIsAValidPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +178,8 @@
       <workItem from="1701587502721" duration="1187000" />
       <workItem from="1701708967441" duration="5776000" />
       <workItem from="1702003109269" duration="12135000" />
-      <workItem from="1702319105745" duration="2459000" />
+      <workItem from="1702319105745" duration="3325000" />
+      <workItem from="1702461569400" duration="6474000" />
     </task>
     <servers />
   </component>
@@ -220,6 +223,11 @@
           <url>file://$PROJECT_DIR$/src/DataStructure/TransposeMatrix.java</url>
           <line>8</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DataStructure/ValidPalindromeTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
