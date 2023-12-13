@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/ValidPalindromeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/ReturnElementThatAppear25PercentTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/ReturnElementThatAppear25PercentTimes.java" afterDir="false" />
-    </list>
+    <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +174,7 @@
       <workItem from="1701708967441" duration="5776000" />
       <workItem from="1702003109269" duration="12135000" />
       <workItem from="1702319105745" duration="3325000" />
-      <workItem from="1702461569400" duration="6474000" />
+      <workItem from="1702461569400" duration="6812000" />
     </task>
     <servers />
   </component>
@@ -223,11 +218,6 @@
           <url>file://$PROJECT_DIR$/src/DataStructure/TransposeMatrix.java</url>
           <line>8</line>
           <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/DataStructure/ValidPalindromeTest.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
