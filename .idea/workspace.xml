@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/DifferenceBetweenZeroAndOneInRowAndColoumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/DifferenceBetweenZeroAndOneInRowAndColoumnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/ValidAnagramTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/PlusOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +65,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DifferenceBetweenZeroAndOneInRowAndColoumnTest">
-    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.PlusOne" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ValidAnagramTest">
     <configuration name="DifferenceBetweenZeroAndOneInRowAndColoumnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
@@ -95,7 +81,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifferenceBetweenZeroAndOneInRowAndColoumnTest.testAnotherDifferenceOfZeroAndOneInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidAnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -104,51 +90,67 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.DifferenceBetweenZeroAndOneInRowAndColoumnTest" />
-      <option name="METHOD_NAME" value="testAnotherDifferenceOfZeroAndOneInArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DifferenceBetweenZeroAndOneInRowAndColoumnTest.testDifferenceOfZeroAndOneInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.DifferenceBetweenZeroAndOneInRowAndColoumnTest" />
-      <option name="METHOD_NAME" value="testDifferenceOfZeroAndOneInArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlusOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.PlusOneTest" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ValidAnagramTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidAnagramTest.testThatFirstLengthIsGreaterThatSecondLengthReturnsFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ValidAnagramTest" />
+      <option name="METHOD_NAME" value="testThatFirstLengthIsGreaterThatSecondLengthReturnsFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidAnagramTest.testThatSecondStringIsNotTheAnagramOfTheFirstString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ValidAnagramTest" />
+      <option name="METHOD_NAME" value="testThatSecondStringIsNotTheAnagramOfTheFirstString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidAnagramTest.testThatSecondStringIsTheAnagramOfTheFirstString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ValidAnagramTest" />
+      <option name="METHOD_NAME" value="testThatSecondStringIsTheAnagramOfTheFirstString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ValidAnagramTest" />
+        <item itemvalue="JUnit.ValidAnagramTest.testThatSecondStringIsNotTheAnagramOfTheFirstString" />
+        <item itemvalue="JUnit.ValidAnagramTest.testThatFirstLengthIsGreaterThatSecondLengthReturnsFalse" />
+        <item itemvalue="JUnit.ValidAnagramTest.testThatSecondStringIsTheAnagramOfTheFirstString" />
         <item itemvalue="JUnit.DifferenceBetweenZeroAndOneInRowAndColoumnTest" />
-        <item itemvalue="JUnit.DifferenceBetweenZeroAndOneInRowAndColoumnTest.testAnotherDifferenceOfZeroAndOneInArray" />
-        <item itemvalue="JUnit.DifferenceBetweenZeroAndOneInRowAndColoumnTest.testDifferenceOfZeroAndOneInArray" />
-        <item itemvalue="Application.PlusOne" />
-        <item itemvalue="JUnit.PlusOneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +177,8 @@
       <workItem from="1701708967441" duration="5776000" />
       <workItem from="1702003109269" duration="12135000" />
       <workItem from="1702319105745" duration="3325000" />
-      <workItem from="1702461569400" duration="20079000" />
+      <workItem from="1702461569400" duration="20518000" />
+      <workItem from="1702653671165" duration="4643000" />
     </task>
     <servers />
   </component>
@@ -221,9 +224,24 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/DataStructure/DifferenceBetweenZeroAndOneInRowAndColoumnTest.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="31" />
+          <url>file://$PROJECT_DIR$/test/DataStructure/ValidAnagramTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/ValidAnagram.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/ValidAnagram.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/ValidAnagram.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
