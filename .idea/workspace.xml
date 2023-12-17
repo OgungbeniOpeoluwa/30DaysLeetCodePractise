@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/ValidAnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/LengthOfLastWordTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +65,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ValidAnagramTest">
-    <configuration name="DifferenceBetweenZeroAndOneInRowAndColoumnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LengthOfLastWordTest">
+    <configuration name="LengthOfLastWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +75,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.DifferenceBetweenZeroAndOneInRowAndColoumnTest" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LengthOfLastWordTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfLastWordTest.testForAnotherLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LengthOfLastWordTest" />
+      <option name="METHOD_NAME" value="testForAnotherLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfLastWordTest.testThatLengthOfAIs1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LengthOfLastWordTest" />
+      <option name="METHOD_NAME" value="testThatLengthOfAIs1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfLastWordTest.testThatLengthOfWorldInHelloWorldIs5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LengthOfLastWordTest" />
+      <option name="METHOD_NAME" value="testThatLengthOfWorldInHelloWorldIs5" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,61 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidAnagramTest.testThatFirstLengthIsGreaterThatSecondLengthReturnsFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ValidAnagramTest" />
-      <option name="METHOD_NAME" value="testThatFirstLengthIsGreaterThatSecondLengthReturnsFalse" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidAnagramTest.testThatSecondStringIsNotTheAnagramOfTheFirstString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ValidAnagramTest" />
-      <option name="METHOD_NAME" value="testThatSecondStringIsNotTheAnagramOfTheFirstString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidAnagramTest.testThatSecondStringIsTheAnagramOfTheFirstString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ValidAnagramTest" />
-      <option name="METHOD_NAME" value="testThatSecondStringIsTheAnagramOfTheFirstString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LengthOfLastWordTest" />
+        <item itemvalue="JUnit.LengthOfLastWordTest.testForAnotherLength" />
+        <item itemvalue="JUnit.LengthOfLastWordTest.testThatLengthOfAIs1" />
+        <item itemvalue="JUnit.LengthOfLastWordTest.testThatLengthOfWorldInHelloWorldIs5" />
         <item itemvalue="JUnit.ValidAnagramTest" />
-        <item itemvalue="JUnit.ValidAnagramTest.testThatSecondStringIsNotTheAnagramOfTheFirstString" />
-        <item itemvalue="JUnit.ValidAnagramTest.testThatFirstLengthIsGreaterThatSecondLengthReturnsFalse" />
-        <item itemvalue="JUnit.ValidAnagramTest.testThatSecondStringIsTheAnagramOfTheFirstString" />
-        <item itemvalue="JUnit.DifferenceBetweenZeroAndOneInRowAndColoumnTest" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +179,7 @@
       <workItem from="1702319105745" duration="3325000" />
       <workItem from="1702461569400" duration="20518000" />
       <workItem from="1702653671165" duration="4643000" />
+      <workItem from="1702765182507" duration="1532000" />
     </task>
     <servers />
   </component>
