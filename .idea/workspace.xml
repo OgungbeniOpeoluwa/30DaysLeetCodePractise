@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/HalveAlike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/HalveAlikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/OddlyPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/RemoveVowelSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/ReturnTheNumberOfTimesItIsLessser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/SquareAndAscending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/StringWithSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/OddlyPositionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/RemoveVowelSoundTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/ReturnTheNumberOfTimesItIsLessserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/SquareAndAscendingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/StringWithSpaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/TwoSumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +75,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HalveAlikeTest.testThatWordAsTheSameLengthOfVowelSoundWhenDivided">
-    <configuration name="HalveAlikeTest.testThatAnotherWordAsTheSameLengthOfVowelSoundWhenDivided" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TwoSumTest.testThatWhenIGiveAnotherArrayAndTwoTargetItReturnTheSumOfTheNumbers">
+    <configuration name="ReturnTheNumberOfTimesItIsLessserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -75,61 +85,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.HalveAlikeTest" />
-      <option name="METHOD_NAME" value="testThatAnotherWordAsTheSameLengthOfVowelSoundWhenDivided" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HalveAlikeTest.testThatWhenSentenceIsDividedIntoTwoTheyAreTheSameLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.HalveAlikeTest" />
-      <option name="METHOD_NAME" value="testThatWhenSentenceIsDividedIntoTwoTheyAreTheSameLength" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HalveAlikeTest.testThatWordAsTheSameLengthOfVowelSoundWhenDivided" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.HalveAlikeTest" />
-      <option name="METHOD_NAME" value="testThatWordAsTheSameLengthOfVowelSoundWhenDivided" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LengthOfLastWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.LengthOfLastWordTest" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnTheNumberOfTimesItIsLessserTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLastWordTest.testForAnotherLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReturnTheNumberOfTimesItIsLessserTest.testThatWhenIHaveAnArraysOfNumbersItReturnsTheNumberItLesserThanEachOther" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +100,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.LengthOfLastWordTest" />
-      <option name="METHOD_NAME" value="testForAnotherLength" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnTheNumberOfTimesItIsLessserTest" />
+      <option name="METHOD_NAME" value="testThatWhenIHaveAnArraysOfNumbersItReturnsTheNumberItLesserThanEachOther" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnTheNumberOfTimesItIsLessserTest.testThatWhenIHaveAnotherArraysOfNumbersWithMinusItReturnsTheNumberItLesserThanEachOther" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnTheNumberOfTimesItIsLessserTest" />
+      <option name="METHOD_NAME" value="testThatWhenIHaveAnotherArraysOfNumbersWithMinusItReturnsTheNumberItLesserThanEachOther" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumTest.testThatWhenIGiveAnArrayAndTwoTargetItReturnTheSumOfTheNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.TwoSumTest" />
+      <option name="METHOD_NAME" value="testThatWhenIGiveAnArrayAndTwoTargetItReturnTheSumOfTheNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumTest.testThatWhenIGiveAnotherArrayAndTwoTargetItReturnTheSumOfTheNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.TwoSumTest" />
+      <option name="METHOD_NAME" value="testThatWhenIGiveAnotherArrayAndTwoTargetItReturnTheSumOfTheNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HalveAlikeTest.testThatWordAsTheSameLengthOfVowelSoundWhenDivided" />
-        <item itemvalue="JUnit.HalveAlikeTest.testThatAnotherWordAsTheSameLengthOfVowelSoundWhenDivided" />
-        <item itemvalue="JUnit.HalveAlikeTest.testThatWhenSentenceIsDividedIntoTwoTheyAreTheSameLength" />
-        <item itemvalue="JUnit.LengthOfLastWordTest" />
-        <item itemvalue="JUnit.LengthOfLastWordTest.testForAnotherLength" />
+        <item itemvalue="JUnit.TwoSumTest.testThatWhenIGiveAnotherArrayAndTwoTargetItReturnTheSumOfTheNumbers" />
+        <item itemvalue="JUnit.TwoSumTest.testThatWhenIGiveAnArrayAndTwoTargetItReturnTheSumOfTheNumbers" />
+        <item itemvalue="JUnit.ReturnTheNumberOfTimesItIsLessserTest.testThatWhenIHaveAnotherArraysOfNumbersWithMinusItReturnsTheNumberItLesserThanEachOther" />
+        <item itemvalue="JUnit.ReturnTheNumberOfTimesItIsLessserTest" />
+        <item itemvalue="JUnit.ReturnTheNumberOfTimesItIsLessserTest.testThatWhenIHaveAnArraysOfNumbersItReturnsTheNumberItLesserThanEachOther" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +199,7 @@
       <workItem from="1705056145348" duration="1945000" />
       <workItem from="1705079758486" duration="593000" />
       <workItem from="1705116885437" duration="598000" />
+      <workItem from="1705409893835" duration="18296000" />
     </task>
     <servers />
   </component>
@@ -252,6 +263,69 @@
           <url>file://$PROJECT_DIR$/src/DataStructure/ValidAnagram.java</url>
           <line>31</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/OddlyPosition.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/OddlyPosition.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DataStructure/OddlyPositionTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DataStructure/TwoSumTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/TwoSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/TwoSum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/TwoSum.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/TwoSum.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure/TwoSum.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/DataStructure/SquareAndAscendingTest.java</url>
+          <line>8</line>
+          <properties class="DataStructure.SquareAndAscendingTest" method="testThatWhenIPutAnArrayItReturnsItSquareInAAscendingForm">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/DataStructure/OddlyPositionTest.java</url>
+          <line>8</line>
+          <properties class="DataStructure.OddlyPositionTest" method="testThatIfIHaveAnArrayOfSevenLengthItReturnsTheOddlyPositionNumberInTheArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
