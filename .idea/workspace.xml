@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/OddlyPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/RemoveVowelSound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/ReturnTheNumberOfTimesItIsLessser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/SquareAndAscending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/StringWithSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/OddlyPositionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/RemoveVowelSoundTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/ReturnTheNumberOfTimesItIsLessserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/SquareAndAscendingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/StringWithSpaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/TwoSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/DuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/DuplicateNumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,8 +65,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TwoSumTest.testThatWhenIGiveAnotherArrayAndTwoTargetItReturnTheSumOfTheNumbers">
-    <configuration name="ReturnTheNumberOfTimesItIsLessserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DuplicateNumberTest.returnAnotherNumberThatIsNotDuplicatedTest">
+    <configuration name="DuplicateNumberTest.return1NumberThatIsNotDuplicatedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -85,29 +75,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnTheNumberOfTimesItIsLessserTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReturnTheNumberOfTimesItIsLessserTest.testThatWhenIHaveAnArraysOfNumbersItReturnsTheNumberItLesserThanEachOther" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnTheNumberOfTimesItIsLessserTest" />
-      <option name="METHOD_NAME" value="testThatWhenIHaveAnArraysOfNumbersItReturnsTheNumberItLesserThanEachOther" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.DuplicateNumberTest" />
+      <option name="METHOD_NAME" value="return1NumberThatIsNotDuplicatedTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnTheNumberOfTimesItIsLessserTest.testThatWhenIHaveAnotherArraysOfNumbersWithMinusItReturnsTheNumberItLesserThanEachOther" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DuplicateNumberTest.returnAnotherNumberThatIsNotDuplicatedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +91,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ReturnTheNumberOfTimesItIsLessserTest" />
-      <option name="METHOD_NAME" value="testThatWhenIHaveAnotherArraysOfNumbersWithMinusItReturnsTheNumberItLesserThanEachOther" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.DuplicateNumberTest" />
+      <option name="METHOD_NAME" value="returnAnotherNumberThatIsNotDuplicatedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateNumberTest.returnNumberThatIsNotDuplicatedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.DuplicateNumberTest" />
+      <option name="METHOD_NAME" value="returnNumberThatIsNotDuplicatedTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DuplicateNumberTest.returnAnotherNumberThatIsNotDuplicatedTest" />
+        <item itemvalue="JUnit.DuplicateNumberTest.returnNumberThatIsNotDuplicatedTest" />
+        <item itemvalue="JUnit.DuplicateNumberTest.return1NumberThatIsNotDuplicatedTest" />
         <item itemvalue="JUnit.TwoSumTest.testThatWhenIGiveAnotherArrayAndTwoTargetItReturnTheSumOfTheNumbers" />
         <item itemvalue="JUnit.TwoSumTest.testThatWhenIGiveAnArrayAndTwoTargetItReturnTheSumOfTheNumbers" />
-        <item itemvalue="JUnit.ReturnTheNumberOfTimesItIsLessserTest.testThatWhenIHaveAnotherArraysOfNumbersWithMinusItReturnsTheNumberItLesserThanEachOther" />
-        <item itemvalue="JUnit.ReturnTheNumberOfTimesItIsLessserTest" />
-        <item itemvalue="JUnit.ReturnTheNumberOfTimesItIsLessserTest.testThatWhenIHaveAnArraysOfNumbersItReturnsTheNumberItLesserThanEachOther" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +190,10 @@
       <workItem from="1705056145348" duration="1945000" />
       <workItem from="1705079758486" duration="593000" />
       <workItem from="1705116885437" duration="598000" />
-      <workItem from="1705409893835" duration="18296000" />
+      <workItem from="1705409893835" duration="21256000" />
+      <workItem from="1705585722292" duration="576000" />
+      <workItem from="1705605031978" duration="592000" />
+      <workItem from="1706084359540" duration="887000" />
     </task>
     <servers />
   </component>
@@ -280,11 +274,6 @@
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/DataStructure/TwoSumTest.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DataStructure/TwoSum.java</url>
           <line>10</line>
           <option name="timeStamp" value="50" />
@@ -301,12 +290,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DataStructure/TwoSum.java</url>
-          <line>34</line>
+          <line>35</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DataStructure/TwoSum.java</url>
-          <line>41</line>
+          <line>42</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
