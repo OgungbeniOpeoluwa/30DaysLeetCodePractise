@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/FindPlayerWithZeroOrOneLooses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/FindPlayerWithZeroOrOneLoosesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/MostAppear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/MostAppearTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,39 +65,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FindPlayerWithZeroOrOneLoosesTest">
-    <configuration name="ArrayPlusOneTest.testThatWhenAArrayOfNumberIsGiverAddPlusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ArrayPlusOneTest" />
-      <option name="METHOD_NAME" value="testThatWhenAArrayOfNumberIsGiverAddPlusOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayPlusOneTest.testThatWhenArrayOfNumberIsGiverAddPlusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.ArrayPlusOneTest" />
-      <option name="METHOD_NAME" value="testThatWhenArrayOfNumberIsGiverAddPlusOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MostAppearTest.testThatWhenANumberAppearMoreItIsReturn">
     <configuration name="FindPlayerWithZeroOrOneLoosesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
@@ -109,22 +77,6 @@
       <option name="PACKAGE_NAME" value="DataStructure" />
       <option name="MAIN_CLASS_NAME" value="DataStructure.FindPlayerWithZeroOrOneLoosesTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindPlayerWithZeroOrOneLoosesTest.anotherTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.FindPlayerWithZeroOrOneLoosesTest" />
-      <option name="METHOD_NAME" value="anotherTestCase" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -145,13 +97,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MostAppearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.MostAppearTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostAppearTest.testThatWhenANumberAppearMoreItIsReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.MostAppearTest" />
+      <option name="METHOD_NAME" value="testThatWhenANumberAppearMoreItIsReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostAppearTest.testThatWhenAnotherNumberAppearMoreItIsReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.MostAppearTest" />
+      <option name="METHOD_NAME" value="testThatWhenAnotherNumberAppearMoreItIsReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MostAppearTest.testThatWhenANumberAppearMoreItIsReturn" />
+        <item itemvalue="JUnit.MostAppearTest" />
+        <item itemvalue="JUnit.MostAppearTest.testThatWhenAnotherNumberAppearMoreItIsReturn" />
         <item itemvalue="JUnit.FindPlayerWithZeroOrOneLoosesTest" />
         <item itemvalue="JUnit.FindPlayerWithZeroOrOneLoosesTest.testThatWhenPlayersThatWinsAndLostAmathIsGivenITReturnsPLayersThatNeverLostAndThoseThatLostOnces" />
-        <item itemvalue="JUnit.FindPlayerWithZeroOrOneLoosesTest.anotherTestCase" />
-        <item itemvalue="JUnit.ArrayPlusOneTest.testThatWhenAArrayOfNumberIsGiverAddPlusOne" />
-        <item itemvalue="JUnit.ArrayPlusOneTest.testThatWhenArrayOfNumberIsGiverAddPlusOne" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +194,7 @@
       <workItem from="1706084359540" duration="5469000" />
       <workItem from="1706170063967" duration="940000" />
       <workItem from="1706213743855" duration="10322000" />
+      <workItem from="1706437047286" duration="5128000" />
     </task>
     <servers />
   </component>
