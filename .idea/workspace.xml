@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/MostAppear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/MostAppearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Hcf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/PlusNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/HcfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/PlusNumbersTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +67,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MostAppearTest.testThatWhenANumberAppearMoreItIsReturn">
-    <configuration name="FindPlayerWithZeroOrOneLoosesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HcfTest.returnTheHcfOf8412Test">
+    <configuration name="HcfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -75,13 +77,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.FindPlayerWithZeroOrOneLoosesTest" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.HcfTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPlayerWithZeroOrOneLoosesTest.testThatWhenPlayersThatWinsAndLostAmathIsGivenITReturnsPLayersThatNeverLostAndThoseThatLostOnces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HcfTest.returnTheHcfOf639Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -90,14 +92,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.FindPlayerWithZeroOrOneLoosesTest" />
-      <option name="METHOD_NAME" value="testThatWhenPlayersThatWinsAndLostAmathIsGivenITReturnsPLayersThatNeverLostAndThoseThatLostOnces" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.HcfTest" />
+      <option name="METHOD_NAME" value="returnTheHcfOf639Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MostAppearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HcfTest.returnTheHcfOf8412Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -106,13 +108,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.MostAppearTest" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.HcfTest" />
+      <option name="METHOD_NAME" value="returnTheHcfOf8412Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlusNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructure" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.PlusNumbersTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MostAppearTest.testThatWhenANumberAppearMoreItIsReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlusNumbersTest.testThatAnother" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -121,24 +139,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.MostAppearTest" />
-      <option name="METHOD_NAME" value="testThatWhenANumberAppearMoreItIsReturn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MostAppearTest.testThatWhenAnotherNumberAppearMoreItIsReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.MostAppearTest" />
-      <option name="METHOD_NAME" value="testThatWhenAnotherNumberAppearMoreItIsReturn" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.PlusNumbersTest" />
+      <option name="METHOD_NAME" value="testThatAnother" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MostAppearTest.testThatWhenANumberAppearMoreItIsReturn" />
-        <item itemvalue="JUnit.MostAppearTest" />
-        <item itemvalue="JUnit.MostAppearTest.testThatWhenAnotherNumberAppearMoreItIsReturn" />
-        <item itemvalue="JUnit.FindPlayerWithZeroOrOneLoosesTest" />
-        <item itemvalue="JUnit.FindPlayerWithZeroOrOneLoosesTest.testThatWhenPlayersThatWinsAndLostAmathIsGivenITReturnsPLayersThatNeverLostAndThoseThatLostOnces" />
+        <item itemvalue="JUnit.HcfTest.returnTheHcfOf8412Test" />
+        <item itemvalue="JUnit.HcfTest" />
+        <item itemvalue="JUnit.HcfTest.returnTheHcfOf639Test" />
+        <item itemvalue="JUnit.PlusNumbersTest" />
+        <item itemvalue="JUnit.PlusNumbersTest.testThatAnother" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +196,10 @@
       <workItem from="1706084359540" duration="5469000" />
       <workItem from="1706170063967" duration="940000" />
       <workItem from="1706213743855" duration="10322000" />
-      <workItem from="1706437047286" duration="5128000" />
+      <workItem from="1706437047286" duration="5757000" />
+      <workItem from="1706603976117" duration="3744000" />
+      <workItem from="1706646658529" duration="56000" />
+      <workItem from="1706688997965" duration="2374000" />
     </task>
     <servers />
   </component>
