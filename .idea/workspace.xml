@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf75311-1b74-4d7b-830c-054c9ae00552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/LowestCommonNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DataStructure/LowestCommonNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/CountCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DataStructure/CountCharactersTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +65,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LowestCommonNumberTest.return3AsTheLowestNumberThatAppearInTheTwoArrayTest">
-    <configuration name="HcfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CountCharactersTest.testThatPearsCharactersAreCountedAndReturnInAMap">
+    <configuration name="CountCharactersTest.testThatEachCharactersAreCountedAndReturnInAMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -75,13 +75,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.HcfTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.CountCharactersTest" />
+      <option name="METHOD_NAME" value="testThatEachCharactersAreCountedAndReturnInAMap" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HcfTest.returnTheHcfOf639Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountCharactersTest.testThatPearsCharactersAreCountedAndReturnInAMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +91,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DataStructure" />
-      <option name="MAIN_CLASS_NAME" value="DataStructure.HcfTest" />
-      <option name="METHOD_NAME" value="returnTheHcfOf639Test" />
+      <option name="MAIN_CLASS_NAME" value="DataStructure.CountCharactersTest" />
+      <option name="METHOD_NAME" value="testThatPearsCharactersAreCountedAndReturnInAMap" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CountCharactersTest.testThatPearsCharactersAreCountedAndReturnInAMap" />
+        <item itemvalue="JUnit.CountCharactersTest.testThatEachCharactersAreCountedAndReturnInAMap" />
         <item itemvalue="JUnit.LowestCommonNumberTest.return3AsTheLowestNumberThatAppearInTheTwoArrayTest" />
         <item itemvalue="JUnit.LowestCommonNumberTest.return9AsTheLowestNumberThatAppearInTheTwoArrayTest" />
         <item itemvalue="JUnit.HcfTest.returnTheHcfOf8412Test" />
-        <item itemvalue="JUnit.HcfTest" />
-        <item itemvalue="JUnit.HcfTest.returnTheHcfOf639Test" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +201,9 @@
       <workItem from="1706646658529" duration="56000" />
       <workItem from="1706688997965" duration="12354000" />
       <workItem from="1707122054638" duration="1105000" />
+      <workItem from="1707139596125" duration="592000" />
+      <workItem from="1707257733569" duration="148000" />
+      <workItem from="1707577014983" duration="1405000" />
     </task>
     <servers />
   </component>
