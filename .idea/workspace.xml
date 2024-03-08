@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="df28c7f6-873c-4ba6-8320-b85d13accad7" name="Changes" comment="" />
+    <list default="true" id="df28c7f6-873c-4ba6-8320-b85d13accad7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SortCharacterByFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StepsToMakeAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SortCharacterByFrequencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/StepsToMakeAnagramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirtyDaysCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ThirtyDaysCode.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2blrm659kYF8Hx5SdxsikNgEySO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,12 +40,92 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/Dell/Documents/ShoppersDelight",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StepsToMakeAnagramTest">
+    <configuration name="StepsToMakeAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StepsToMakeAnagram" />
+      <module name="ThirtyDaysCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortCharacterByFrequencyTest.testThatTheHighestCharacterAppearFirstInAString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortCharacterByFrequencyTest" />
+      <option name="METHOD_NAME" value="testThatTheHighestCharacterAppearFirstInAString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortCharacterByFrequencyTest.testThatTheHighestCharacterAppearFirstInAnotherString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortCharacterByFrequencyTest" />
+      <option name="METHOD_NAME" value="testThatTheHighestCharacterAppearFirstInAnotherString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepsToMakeAnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StepsToMakeAnagramTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepsToMakeAnagramTest.testForMinimumNumberOfStepToMakeAnagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StepsToMakeAnagramTest" />
+      <option name="METHOD_NAME" value="testForMinimumNumberOfStepToMakeAnagram" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StepsToMakeAnagramTest" />
+        <item itemvalue="JUnit.StepsToMakeAnagramTest.testForMinimumNumberOfStepToMakeAnagram" />
+        <item itemvalue="Application.StepsToMakeAnagram" />
+        <item itemvalue="JUnit.SortCharacterByFrequencyTest.testThatTheHighestCharacterAppearFirstInAString" />
+        <item itemvalue="JUnit.SortCharacterByFrequencyTest.testThatTheHighestCharacterAppearFirstInAnotherString" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,11 +134,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706800666213</updated>
-      <workItem from="1706800667099" duration="29000" />
+      <workItem from="1706800667099" duration="7573000" />
+      <workItem from="1707880129033" duration="3000" />
+      <workItem from="1707880152866" duration="2446000" />
+      <workItem from="1707988142118" duration="780000" />
+      <workItem from="1709804992678" duration="19062000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReversePolishNotation.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortCharacterByFrequency.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
