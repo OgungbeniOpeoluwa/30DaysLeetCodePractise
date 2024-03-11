@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df28c7f6-873c-4ba6-8320-b85d13accad7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SortCharacterByFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StepsToMakeAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SortCharacterByFrequencyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/StepsToMakeAnagramTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PerfectSquareTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThirtyDaysCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ThirtyDaysCode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,29 +35,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/Dell/Documents/ShoppersDelight",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Documents/ShoppersDelight&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -69,10 +66,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StepsToMakeAnagramTest">
+  <component name="RunManager" selected="JUnit.PerfectSquareTest.return3AsTheLeastSumOf12Test">
     <configuration name="StepsToMakeAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StepsToMakeAnagram" />
       <module name="ThirtyDaysCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectSquareTest.return3AsTheLeastSumOf12Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PerfectSquareTest" />
+      <option name="METHOD_NAME" value="return3AsTheLeastSumOf12Test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,16 +89,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SortCharacterByFrequencyTest" />
       <option name="METHOD_NAME" value="testThatTheHighestCharacterAppearFirstInAString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortCharacterByFrequencyTest.testThatTheHighestCharacterAppearFirstInAnotherString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThirtyDaysCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortCharacterByFrequencyTest" />
-      <option name="METHOD_NAME" value="testThatTheHighestCharacterAppearFirstInAnotherString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PerfectSquareTest.return3AsTheLeastSumOf12Test" />
         <item itemvalue="JUnit.StepsToMakeAnagramTest" />
         <item itemvalue="JUnit.StepsToMakeAnagramTest.testForMinimumNumberOfStepToMakeAnagram" />
         <item itemvalue="Application.StepsToMakeAnagram" />
         <item itemvalue="JUnit.SortCharacterByFrequencyTest.testThatTheHighestCharacterAppearFirstInAString" />
-        <item itemvalue="JUnit.SortCharacterByFrequencyTest.testThatTheHighestCharacterAppearFirstInAnotherString" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +135,9 @@
       <workItem from="1707880129033" duration="3000" />
       <workItem from="1707880152866" duration="2446000" />
       <workItem from="1707988142118" duration="780000" />
-      <workItem from="1709804992678" duration="19062000" />
+      <workItem from="1709804992678" duration="20447000" />
+      <workItem from="1710105025533" duration="6413000" />
+      <workItem from="1710162325137" duration="1220000" />
     </task>
     <servers />
   </component>
