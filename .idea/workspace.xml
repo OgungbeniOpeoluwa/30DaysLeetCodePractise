@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df28c7f6-873c-4ba6-8320-b85d13accad7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/PerfectSquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PerfectSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerfectSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/PerfectSquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/PerfectSquareTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2blrm659kYF8Hx5SdxsikNgEySO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -66,48 +69,48 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PerfectSquareTest.return3AsTheLeastSumOf12Test">
-    <configuration name="StepsToMakeAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StepsToMakeAnagram" />
+  <component name="RunManager" selected="JUnit.PerfectSquareTest.return3AsTheLeastSumOf133Test">
+    <configuration name="PerfectSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerfectSquare" />
       <module name="ThirtyDaysCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectSquareTest.return3AsTheLeastSumOf12Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PerfectSquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PerfectSquareTest" />
-      <option name="METHOD_NAME" value="return3AsTheLeastSumOf12Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortCharacterByFrequencyTest.testThatTheHighestCharacterAppearFirstInAString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThirtyDaysCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortCharacterByFrequencyTest" />
-      <option name="METHOD_NAME" value="testThatTheHighestCharacterAppearFirstInAString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StepsToMakeAnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThirtyDaysCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StepsToMakeAnagramTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StepsToMakeAnagramTest.testForMinimumNumberOfStepToMakeAnagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PerfectSquareTest.return2AsTheLeastSumOf13Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StepsToMakeAnagramTest" />
-      <option name="METHOD_NAME" value="testForMinimumNumberOfStepToMakeAnagram" />
+      <option name="MAIN_CLASS_NAME" value="PerfectSquareTest" />
+      <option name="METHOD_NAME" value="return2AsTheLeastSumOf13Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectSquareTest.return3AsTheLeastSumOf133Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PerfectSquareTest" />
+      <option name="METHOD_NAME" value="return3AsTheLeastSumOf133Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectSquareTest.return3AsTheLeastSumOf43Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PerfectSquareTest" />
+      <option name="METHOD_NAME" value="return3AsTheLeastSumOf43Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PerfectSquareTest.return3AsTheLeastSumOf12Test" />
-        <item itemvalue="JUnit.StepsToMakeAnagramTest" />
-        <item itemvalue="JUnit.StepsToMakeAnagramTest.testForMinimumNumberOfStepToMakeAnagram" />
-        <item itemvalue="Application.StepsToMakeAnagram" />
-        <item itemvalue="JUnit.SortCharacterByFrequencyTest.testThatTheHighestCharacterAppearFirstInAString" />
+        <item itemvalue="JUnit.PerfectSquareTest.return3AsTheLeastSumOf133Test" />
+        <item itemvalue="JUnit.PerfectSquareTest" />
+        <item itemvalue="JUnit.PerfectSquareTest.return3AsTheLeastSumOf43Test" />
+        <item itemvalue="Application.PerfectSquare" />
+        <item itemvalue="JUnit.PerfectSquareTest.return2AsTheLeastSumOf13Test" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +140,9 @@
       <workItem from="1707988142118" duration="780000" />
       <workItem from="1709804992678" duration="20447000" />
       <workItem from="1710105025533" duration="6413000" />
-      <workItem from="1710162325137" duration="1220000" />
+      <workItem from="1710162325137" duration="3187000" />
+      <workItem from="1710174113466" duration="596000" />
+      <workItem from="1710180967455" duration="8741000" />
     </task>
     <servers />
   </component>
@@ -156,6 +161,84 @@
           <url>file://$PROJECT_DIR$/src/SortCharacterByFrequency.java</url>
           <line>9</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PerfectSquare.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PerfectSquare.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PerfectSquare.java</url>
+          <line>40</line>
+          <properties class="PerfectSquare" method="max">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PerfectSquare.java</url>
+          <line>47</line>
+          <properties class="PerfectSquare" method="checkNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

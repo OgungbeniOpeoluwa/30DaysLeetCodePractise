@@ -5,26 +5,31 @@ public class PerfectSquare {
         int value = 0;
 
         int r = 0;
-        int counter = 1;
-        int n = 1;
-        int min  =  number;
+        int counter = 2;
+        int n = 2;
+        int min = number;
 
-        while(r < number){
-            r  = counter * counter;
-            if(temporary > r){
+        for (int i = 0; i < number; i++) {
+            r = counter * counter;
+            while (temporary >= r) {
                 temporary -= r;
-                value = value+1;
+                value = value + 1;
+            }if (temporary % 2 == 0 && checkNumber(temporary) != 0) {
+                counter = checkNumber(temporary);
+                int o= counter * counter;
+                temporary -= o;
+                value +=1;
             }
-            else if (temporary < r) {
-                counter = perfectSquare(counter,temporary);
-            }
-            else{
-                min = max(value,min);
+            else if (temporary < r && temporary != 0) {
+                counter--;
+            } else if (temporary == 0) {
+                min = max(value, min);
                 n++;
                 counter = n;
                 temporary = number;
                 value = 0;
             }
+            if (r > number) break;
 
 
         }
@@ -33,17 +38,21 @@ public class PerfectSquare {
     }
 
 
-    private static  int perfectSquare(int count , long value){
-        while(value > count){
-            count --;
+    private static int max(int result, int secondResult) {
+        if (secondResult < result) {
+            return secondResult;
         }
-        return count;
+        return result;
     }
 
-    private static int max(int result , int secondResult){
-            if(secondResult < result){
-                return  secondResult;
-            }
-            return  result;
+    private static  int checkNumber(long value){
+        int numb = (int) (value/2);
+        double n = Math.sqrt(numb);
+        if (numb % n == 0) {
+            return (int) n;
+        }
+        return 0;
     }
+
+
 }
