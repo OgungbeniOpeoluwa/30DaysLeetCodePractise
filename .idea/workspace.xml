@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df28c7f6-873c-4ba6-8320-b85d13accad7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/WinnerOfArrayGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/WinnerOfArrayGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SumOfEvenTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProductOfArrayExceptSelf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,51 +69,51 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.WinnerOfArrayGameTest.winnerOfArrayGameIs">
-    <configuration name="PerfectSquareTest.return3AsTheLeastSumOf133Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SumOfEvenTest.returnSumOfEvenNumbersInTheArray2">
+    <configuration name="ProductOfArrayExceptSelfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PerfectSquareTest" />
-      <option name="METHOD_NAME" value="return3AsTheLeastSumOf133Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WinnerOfArrayGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThirtyDaysCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WinnerOfArrayGameTest" />
+      <option name="MAIN_CLASS_NAME" value="ProductOfArrayExceptSelfTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WinnerOfArrayGameTest.winnerOfArrayGameIs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductOfArrayExceptSelfTest.productOfAllInTheArrayAreReturn3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WinnerOfArrayGameTest" />
-      <option name="METHOD_NAME" value="winnerOfArrayGameIs" />
+      <option name="MAIN_CLASS_NAME" value="ProductOfArrayExceptSelfTest" />
+      <option name="METHOD_NAME" value="productOfAllInTheArrayAreReturn3Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WinnerOfArrayGameTest.winnerOfArrayGameIs3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductOfArrayExceptSelfTest.productOfAllInTheArrayAreReturnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WinnerOfArrayGameTest" />
-      <option name="METHOD_NAME" value="winnerOfArrayGameIs3" />
+      <option name="MAIN_CLASS_NAME" value="ProductOfArrayExceptSelfTest" />
+      <option name="METHOD_NAME" value="productOfAllInTheArrayAreReturnTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WinnerOfArrayGameTest.winnerOfArrayGameIs5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfEvenTest.returnSumOfEvenNumbersInTheArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WinnerOfArrayGameTest" />
-      <option name="METHOD_NAME" value="winnerOfArrayGameIs5" />
+      <option name="MAIN_CLASS_NAME" value="SumOfEvenTest" />
+      <option name="METHOD_NAME" value="returnSumOfEvenNumbersInTheArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfEvenTest.returnSumOfEvenNumbersInTheArray2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SumOfEvenTest" />
+      <option name="METHOD_NAME" value="returnSumOfEvenNumbersInTheArray2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WinnerOfArrayGameTest.winnerOfArrayGameIs" />
-        <item itemvalue="JUnit.WinnerOfArrayGameTest.winnerOfArrayGameIs3" />
-        <item itemvalue="JUnit.WinnerOfArrayGameTest" />
-        <item itemvalue="JUnit.WinnerOfArrayGameTest.winnerOfArrayGameIs5" />
-        <item itemvalue="JUnit.PerfectSquareTest.return3AsTheLeastSumOf133Test" />
+        <item itemvalue="JUnit.SumOfEvenTest.returnSumOfEvenNumbersInTheArray2" />
+        <item itemvalue="JUnit.SumOfEvenTest.returnSumOfEvenNumbersInTheArray" />
+        <item itemvalue="JUnit.ProductOfArrayExceptSelfTest" />
+        <item itemvalue="JUnit.ProductOfArrayExceptSelfTest.productOfAllInTheArrayAreReturnTest" />
+        <item itemvalue="JUnit.ProductOfArrayExceptSelfTest.productOfAllInTheArrayAreReturn3Test" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +146,10 @@
       <workItem from="1710162325137" duration="3187000" />
       <workItem from="1710174113466" duration="596000" />
       <workItem from="1710180967455" duration="28445000" />
+      <workItem from="1710391748718" duration="68827000" />
+      <workItem from="1710959081097" duration="592000" />
+      <workItem from="1711052978388" duration="339000" />
+      <workItem from="1711055905696" duration="3142000" />
     </task>
     <servers />
   </component>
@@ -158,11 +163,6 @@
           <url>file://$PROJECT_DIR$/src/ReversePolishNotation.java</url>
           <line>41</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortCharacterByFrequency.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/PerfectSquareTest.java</url>
@@ -224,6 +224,61 @@
           <line>41</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/MeetingRoomTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/MeetingRoomTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/MeetingRoomTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/SumOfEvenTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/SumOfEvenTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumOfEven.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumOfEven.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumOfEven.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumOfEven.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumOfEven.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumOfEven.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PerfectSquare.java</url>
           <line>40</line>
@@ -244,5 +299,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ThirtyDaysCode$MeetingRoomTest_assingingMeetingToAnotherRoomTest.ic" NAME="MeetingRoomTest.assingingMeetingToAnotherRoomTest Coverage Results" MODIFIED="1710635002086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

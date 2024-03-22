@@ -11,14 +11,15 @@ public class ProductOfArrayExceptSelf {
         List<Integer>  N = new ArrayList<>(Arrays.stream(array).boxed().toList());
         List<Integer> n = new ArrayList<>(N);
         List<Integer> value = new ArrayList<>();
-        int [] m;
+        int count = 0;
         for (Integer values:N) {
             n.remove(values);
-            value.add(n.stream().reduce((u, y) -> u * y).get());
+            array[count] = n.stream().reduce((u, y) -> u * y).get();
             n.add(values);
+            count++;
         }
-       m = value.stream().mapToInt(x-> x).toArray();
-        return m;
+       array = value.stream().mapToInt(x-> x).toArray();
+        return array;
     }
 
 
