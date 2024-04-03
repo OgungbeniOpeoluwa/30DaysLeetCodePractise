@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df28c7f6-873c-4ba6-8320-b85d13accad7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SumOfEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SumOfEvenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProductOfArrayExceptSelf.java" afterDir="false" />
-    </list>
+    <list default="true" id="df28c7f6-873c-4ba6-8320-b85d13accad7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,51 +64,46 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SumOfEvenTest.returnSumOfEvenNumbersInTheArray2">
-    <configuration name="ProductOfArrayExceptSelfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IsomophicStringsTest.testThatabAndcodeIsIsomophic">
+    <configuration name="IsomophicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsomophicStrings" />
       <module name="ThirtyDaysCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProductOfArrayExceptSelfTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfArrayExceptSelfTest.productOfAllInTheArrayAreReturn3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Lowest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lowest" />
+      <module name="ThirtyDaysCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsomophicStringsTest.testThatEggAndAddAreIsomophic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProductOfArrayExceptSelfTest" />
-      <option name="METHOD_NAME" value="productOfAllInTheArrayAreReturn3Test" />
+      <option name="MAIN_CLASS_NAME" value="IsomophicStringsTest" />
+      <option name="METHOD_NAME" value="testThatEggAndAddAreIsomophic" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfArrayExceptSelfTest.productOfAllInTheArrayAreReturnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsomophicStringsTest.testThatabAndcodeIsIsomophic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProductOfArrayExceptSelfTest" />
-      <option name="METHOD_NAME" value="productOfAllInTheArrayAreReturnTest" />
+      <option name="MAIN_CLASS_NAME" value="IsomophicStringsTest" />
+      <option name="METHOD_NAME" value="testThatabAndcodeIsIsomophic" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfEvenTest.returnSumOfEvenNumbersInTheArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsomophicStringsTest.testThatpaperAndTitleIsNotIsomophic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumOfEvenTest" />
-      <option name="METHOD_NAME" value="returnSumOfEvenNumbersInTheArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfEvenTest.returnSumOfEvenNumbersInTheArray2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThirtyDaysCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumOfEvenTest" />
-      <option name="METHOD_NAME" value="returnSumOfEvenNumbersInTheArray2" />
+      <option name="MAIN_CLASS_NAME" value="IsomophicStringsTest" />
+      <option name="METHOD_NAME" value="testThatpaperAndTitleIsNotIsomophic" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SumOfEvenTest.returnSumOfEvenNumbersInTheArray2" />
-        <item itemvalue="JUnit.SumOfEvenTest.returnSumOfEvenNumbersInTheArray" />
-        <item itemvalue="JUnit.ProductOfArrayExceptSelfTest" />
-        <item itemvalue="JUnit.ProductOfArrayExceptSelfTest.productOfAllInTheArrayAreReturnTest" />
-        <item itemvalue="JUnit.ProductOfArrayExceptSelfTest.productOfAllInTheArrayAreReturn3Test" />
+        <item itemvalue="JUnit.IsomophicStringsTest.testThatabAndcodeIsIsomophic" />
+        <item itemvalue="JUnit.IsomophicStringsTest.testThatpaperAndTitleIsNotIsomophic" />
+        <item itemvalue="JUnit.IsomophicStringsTest.testThatEggAndAddAreIsomophic" />
+        <item itemvalue="Application.IsomophicStrings" />
+        <item itemvalue="Application.Lowest" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +139,10 @@
       <workItem from="1710391748718" duration="68827000" />
       <workItem from="1710959081097" duration="592000" />
       <workItem from="1711052978388" duration="339000" />
-      <workItem from="1711055905696" duration="3142000" />
+      <workItem from="1711055905696" duration="4578000" />
+      <workItem from="1711247511514" duration="446000" />
+      <workItem from="1711471964859" duration="765000" />
+      <workItem from="1712029072994" duration="6468000" />
     </task>
     <servers />
   </component>
@@ -278,6 +271,16 @@
           <url>file://$PROJECT_DIR$/src/SumOfEven.java</url>
           <line>7</line>
           <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/IsomophicStringsTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/IsomophicStringsTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PerfectSquare.java</url>
