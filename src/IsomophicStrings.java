@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import java.util.Scanner;
 
 public class IsomophicStrings {
 
@@ -38,5 +39,11 @@ public class IsomophicStrings {
     }
     private static boolean checkIfValueExist(String s, HashMap<String,String> values) {
        return values.containsValue(s);
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+       int n =  scanner.nextInt();
+        System.out.println(n );
     }
 }

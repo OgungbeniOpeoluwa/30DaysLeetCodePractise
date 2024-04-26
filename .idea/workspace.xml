@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df28c7f6-873c-4ba6-8320-b85d13accad7" name="Changes" comment="" />
+    <list default="true" id="df28c7f6-873c-4ba6-8320-b85d13accad7" name="Changes" comment="leetcode practise">
+      <change afterPath="$PROJECT_DIR$/src/DoubleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IdealSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfEncryptedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DoubleArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/IdealSubSequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LargestThreeSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SumOfEncryptedNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsomophicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsomophicStrings.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +31,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.1/lib/src.zip!/java.base/java/util/function/Predicate.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.1/lib/src.zip!/java.base/java/util/function/Supplier.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,7 +59,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Documents/ShoppersDelight&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Downloads/VfastBookingSystem&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -64,46 +79,52 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IsomophicStringsTest.testThatabAndcodeIsIsomophic">
-    <configuration name="IsomophicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsomophicStrings" />
-      <module name="ThirtyDaysCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lowest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lowest" />
-      <module name="ThirtyDaysCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsomophicStringsTest.testThatEggAndAddAreIsomophic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LargestThreeSumTest.return777AsLargestNumbInString">
+    <configuration name="DoubleArrayTest.testArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsomophicStringsTest" />
-      <option name="METHOD_NAME" value="testThatEggAndAddAreIsomophic" />
+      <option name="MAIN_CLASS_NAME" value="DoubleArrayTest" />
+      <option name="METHOD_NAME" value="testArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsomophicStringsTest.testThatabAndcodeIsIsomophic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IdealSubSequenceTest.testTTHeLongestIdealSubsequenceInAnotherStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsomophicStringsTest" />
-      <option name="METHOD_NAME" value="testThatabAndcodeIsIsomophic" />
+      <option name="MAIN_CLASS_NAME" value="IdealSubSequenceTest" />
+      <option name="METHOD_NAME" value="testTTHeLongestIdealSubsequenceInAnotherStrings" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsomophicStringsTest.testThatpaperAndTitleIsNotIsomophic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IdealSubSequenceTest.testTTHeLongestIdealSubsequenceInStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirtyDaysCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsomophicStringsTest" />
-      <option name="METHOD_NAME" value="testThatpaperAndTitleIsNotIsomophic" />
+      <option name="MAIN_CLASS_NAME" value="IdealSubSequenceTest" />
+      <option name="METHOD_NAME" value="testTTHeLongestIdealSubsequenceInStrings" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestThreeSumTest.return777AsLargestNumbInString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LargestThreeSumTest" />
+      <option name="METHOD_NAME" value="return777AsLargestNumbInString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestThreeSumTest.return777AsargestNumbInString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirtyDaysCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LargestThreeSumTest" />
+      <option name="METHOD_NAME" value="return777AsargestNumbInString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IsomophicStringsTest.testThatabAndcodeIsIsomophic" />
-        <item itemvalue="JUnit.IsomophicStringsTest.testThatpaperAndTitleIsNotIsomophic" />
-        <item itemvalue="JUnit.IsomophicStringsTest.testThatEggAndAddAreIsomophic" />
-        <item itemvalue="Application.IsomophicStrings" />
-        <item itemvalue="Application.Lowest" />
+        <item itemvalue="JUnit.LargestThreeSumTest.return777AsLargestNumbInString" />
+        <item itemvalue="JUnit.LargestThreeSumTest.return777AsargestNumbInString" />
+        <item itemvalue="JUnit.IdealSubSequenceTest.testTTHeLongestIdealSubsequenceInAnotherStrings" />
+        <item itemvalue="JUnit.IdealSubSequenceTest.testTTHeLongestIdealSubsequenceInStrings" />
+        <item itemvalue="JUnit.DoubleArrayTest.testArray" />
       </list>
     </recent_temporary>
   </component>
@@ -142,12 +163,38 @@
       <workItem from="1711055905696" duration="4578000" />
       <workItem from="1711247511514" duration="446000" />
       <workItem from="1711471964859" duration="765000" />
-      <workItem from="1712029072994" duration="6468000" />
+      <workItem from="1712029072994" duration="12416000" />
+      <workItem from="1712513397097" duration="1370000" />
+      <workItem from="1712745325247" duration="596000" />
+      <workItem from="1713219153338" duration="8775000" />
+      <workItem from="1713807094630" duration="4880000" />
+      <workItem from="1714032980973" duration="9787000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode practise">
+      <option name="closed" value="true" />
+      <created>1713388609021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713388609021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="leetcode practise">
+      <option name="closed" value="true" />
+      <created>1713990410609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713990410609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode practise" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode practise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -282,6 +329,36 @@
           <line>7</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/IdealSubSequenceTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/IdealSubSequenceTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/IdealSubSequenceTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/IdealSubSequenceTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/LargestThreeSumTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/LargestThreeSumTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PerfectSquare.java</url>
           <line>40</line>
@@ -304,6 +381,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ThirtyDaysCode$LargestThreeSumTest_return777AsargestNumbInString.ic" NAME="LargestThreeSumTest.return777AsargestNumbInString Coverage Results" MODIFIED="1714131891969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ThirtyDaysCode$MeetingRoomTest_assingingMeetingToAnotherRoomTest.ic" NAME="MeetingRoomTest.assingingMeetingToAnotherRoomTest Coverage Results" MODIFIED="1710635002086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
