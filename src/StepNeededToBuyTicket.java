@@ -8,20 +8,14 @@ public class StepNeededToBuyTicket {
         while (numb >0){
             for(int count = 0; count < array.length;count++){
                 if(array[count] == 0)continue;
+                if(array[k] == 0 )break;
                 array[count]-=1;
                 counts++;
             }
-//            array = reduceArray(array);
-//            System.out.println(Arrays.toString(array) );
-//            count+=array.length;
-           numb--;
+            numb--;
 
         }
         return counts;
     }
-    public static  int [] reduceArray(int [] values){
-        return Arrays.stream(values).filter((x)->x>0)
-//                .peek(System.out::println)
-                .map((x)->x-1).toArray();
-    }
+
 }
