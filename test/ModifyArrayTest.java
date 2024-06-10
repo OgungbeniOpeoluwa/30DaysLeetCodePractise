@@ -6,7 +6,7 @@ class ModifyArrayTest {
     @Test
     public void  modifyArray(){
         String [] value = {"h","e","l","l","o"};
-        String [] result = {"0","l","l","e","h"};
+        String [] result = {"o","l","l","e","h"};
         assertArrayEquals(result,ModifyArray.reverseString(value));
 
     }
